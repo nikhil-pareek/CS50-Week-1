@@ -14,3 +14,6 @@ This repository contains my solutions for CS50 Week 1.
 - Loops
 - Functions
 - Algorithms
+
+ Status:
+✅ Problem Set 1 completed and passed.
